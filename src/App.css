@@ -1,0 +1,40 @@
+.Home{
+  background-image: url(./assets/home_background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 100vw;
+  min-height: 100vh;
+  resize: both;
+}
+
+.Skills{
+  background-image: url(./assets/home_background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 100vw;
+  min-height: 100vh;
+  resize: both;
+}
+
+.About_me{
+  background-image: url(./assets/home_background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 100vw;
+  min-height: 100vh;
+  resize: both;      
+}
+
+.Projects{
+  background-color: darkcyan;
+  background-size: cover;
+}
+
+.Education{
+  background-image: url(./assets/home_background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 100vw;
+  min-height: 100vh;
+  resize: both;
+}

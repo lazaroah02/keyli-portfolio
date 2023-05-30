@@ -1,0 +1,1 @@
+Juego de adivinar la palabra. utilice Python como lenguaje de programacion , tkinter como libreria para para la interfaz grafica del usuario. El juego elige una palabra aleatoriamente de una lista dada la cual solo se le muestra al usuario un caracter y debe de intentar adivinarla, tiene 5 intentos.

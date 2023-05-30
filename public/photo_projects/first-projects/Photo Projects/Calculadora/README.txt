@@ -1,0 +1,2 @@
+Calculadora cientifica para realizar operaciones matematicas con interfaz grafica. Hice este proyecto en Python, utilice tkinter como libreria para la interfaz grafica de usuario y math para realizar las operaciones matematicas, posee eventos para utilizar los botones del teclado para una mejor usabilidad. 
+Con este projecto aprendi como manejar eventos de teclado para el mapeado de botones, a utilizar la libreria math , a usar funciones para una mejor organizacion.

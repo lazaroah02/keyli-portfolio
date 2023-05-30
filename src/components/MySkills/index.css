@@ -1,0 +1,128 @@
+.skills-container{
+    text-align: center;
+    margin-top: 5rem;
+}
+.skills{
+    display: inline-block;
+    margin:0 2rem 2rem 2rem;
+    border:1px solid white;
+    border-radius:10px;
+    width:300px;
+    height:400px;
+    background-color:black;
+    padding-top:1rem;
+}
+.python-container{
+    position: relative;
+    top:1rem;
+    left:0.2rem;
+}
+.Python{
+    background-image: url(../../assets/skills/lenguages/python.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100px;
+    height:100px;
+    border-radius:10px;
+    margin-left: 6rem;
+}
+.java-script-container{
+    position: relative;
+    top: 3rem;
+}
+.Java{
+    background-image: url(../../assets/skills/lenguages/Java.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100px;
+    height:100px;
+    border-radius:10px;
+    margin-left: 6rem;
+    position:relative;
+    right:3rem;
+}
+.javascript{
+    background-image: url(../../assets/skills/lenguages/javascript.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100px;
+    height:100px;
+    border-radius:10px;
+    margin-left: 6rem;
+    position:relative;
+    left:4rem;
+    bottom: 6.2rem;
+}
+.html-css{
+    background-image: url(../../assets/skills/frontend/html_css.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:200px;
+    height:100px;
+    border-radius:10px;
+    margin-left:3rem;
+    margin-top:3rem;
+}
+.react{
+    background-image: url(../../assets/skills/frontend/react.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:100px;
+    height:98px;
+    border-radius:10px;
+    margin-left:6rem;
+    margin-top:2rem;
+}
+.django{
+    background-image: url(../../assets/skills/backend/django.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:130px;
+    height:60px;
+    border-radius:10px;
+    margin-left:5rem;
+    margin-top:2rem;
+}
+.django-rest-framework{
+    background-image: url(../../assets/skills/backend/django-rest-framework.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:130px;
+    height:60px;
+    border-radius:10px;
+    margin-left:5rem;
+    margin-top:2rem;
+}
+.sql-database{
+    background-image: url(../../assets/skills/backend/sql-database.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100px;
+    height:100px;
+    border-radius:10px;
+    margin-left:6rem;
+    margin-top:2rem;
+}
+.git-github{
+    background-image: url(../../assets/skills/others/git-github.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:130px;
+    height:60px;
+    border-radius:10px;
+    margin-left:5rem;
+    margin-top:2rem;
+}
+.docker{
+    background-image: url(../../assets/skills/others/docker.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:100px;
+    height:100px;
+    border-radius:10px;
+    margin-left:6rem;
+    margin-top:2rem;
+}
+.english{
+    margin-top:2rem;
+}

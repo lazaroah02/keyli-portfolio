@@ -1,0 +1,34 @@
+.ItemsContainer{
+    text-align: center;
+    background-color:transparent;
+    margin-top:2rem;
+}
+.ItemsContainer a{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.items{
+    display: inline-block;
+    width:50px;
+    height:50px;
+    border-radius:10px;
+}
+.items:hover{
+    box-shadow: 2px 2px 2px 1px  azure;
+}
+.mail-image{
+    background-image: url('../../assets/contact_items/correo_logo.png');
+    background-size: cover; 
+    width:60px;  
+}
+.gihub-image{
+    background-image: url('../../assets/contact_items/github_logo.jpg');
+    background-size: cover;
+    width:60px;
+    background-repeat: no-repeat;
+}
+
+.linkeedin-image{
+    background-image: url('../../assets/contact_items/linkeding_logo.png');
+    background-size: cover;
+}

@@ -1,0 +1,1 @@
+Juego de Tic Tac Toe hecho en Python y tkinter como libreria para la interfaz grafica de usuario. Posee modalidad multiplayer y single player. Este proyecto me ayudo a consolidar mis bases en la programacion ya que tube que crear una especie de inteligencia para que jugara en contra del usuario y fue muy interesante y entretenido.
